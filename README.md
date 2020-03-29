@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://filipealvesdef.github.io/flappy-bird-clone/index.html">
-    <img src="https://github.com/filipealvesdef/flappy-bird-clone/blob/master/flappy-bird-gif.gif?raw=true">
+    <img width="280px" src="https://github.com/filipealvesdef/flappy-bird-clone/blob/master/flappy-bird-gif.gif?raw=true">
   </a>
 </p>
 

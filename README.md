@@ -6,6 +6,6 @@
 
 # Flappy Bird clone
 
-This game was implemented for didatic porpouses and this repository was used as material for a workshop that I ministred during the Computer Science Studies Week (SECCOMP) in October of 2017 at São Paulo State University (UNESP), Rio Claro - Brazil.
+This game was implemented for didatic purposes and this repository was used as material for a workshop that I ministred during the Computer Science Studies Week (SECCOMP) in October of 2017 at São Paulo State University (UNESP), Rio Claro - Brazil.
 
 Feel free to use, modify and share it as you wish but it would be cool if you give me due credits :)
